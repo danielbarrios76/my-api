@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  used_credits: 1.5
+  user: one
+  item: one
+
+two:
+  used_credits: 1.5
+  user: two
+  item: two

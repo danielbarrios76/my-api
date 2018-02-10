@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  state: MyString
+  name: MyString
+  description: MyText
+  initial_bid: 1.5
+  user: one
+  photo: MyString
+  finish_at: 2018-02-10 18:15:45
+
+two:
+  state: MyString
+  name: MyString
+  description: MyText
+  initial_bid: 1.5
+  user: two
+  photo: MyString
+  finish_at: 2018-02-10 18:15:45
